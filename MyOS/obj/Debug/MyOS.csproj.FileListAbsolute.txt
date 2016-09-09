@@ -1,0 +1,15 @@
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\MyOS.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\MyOS.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.System.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Common.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.HAL.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Core.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.System.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Common.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\bin\Debug\Cosmos.Core.pdb
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\obj\Debug\MyOS.csprojResolveAssemblyReference.cache
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\obj\Debug\MyOS.dll
+C:\Users\Josue\documents\visual studio 2015\Projects\MyOS\MyOS\obj\Debug\MyOS.pdb
